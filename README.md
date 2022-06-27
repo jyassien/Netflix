@@ -1,3 +1,10 @@
+###########################################
+https://netflix-89f6c.web.app/
+
+To view the deployed netflix web page on firebase, use the link above. 
+###########################################
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
