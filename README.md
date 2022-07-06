@@ -1,7 +1,9 @@
-###########################################
-https://netflix-89f6c.web.app/
+########################################### <br />
 
-To view the deployed netflix web page on firebase, use the link above. 
+
+https://netflix-89f6c.web.app/    <br />
+https://netflix-89f6c.firebaseapp.com/    <br />
+To view the deployed netflix web page on firebase, use one of the link above.     <br />
 ###########################################
 
 
